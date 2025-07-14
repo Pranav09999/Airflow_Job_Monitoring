@@ -85,3 +85,18 @@ Quicker troubleshooting through automated alerts
 
 Insights into system performance using analytics
      
+
+
+<img width="365" height="323" alt="image" src="https://github.com/user-attachments/assets/9e7db8e9-0de1-4c97-a631-a6471846134c" />
+
+<img width="374" height="329" alt="image" src="https://github.com/user-attachments/assets/bf16a13b-7a11-49cc-a1a2-6f095bdcb83e" />
+
+<img width="374" height="349" alt="image" src="https://github.com/user-attachments/assets/8f6f8449-1f7a-4210-bb28-e41b0c1f86e3" />
+
+<img width="380" height="356" alt="image" src="https://github.com/user-attachments/assets/671b38df-934b-4029-8941-a16871531097" />
+
+<img width="377" height="357" alt="image" src="https://github.com/user-attachments/assets/1870029b-03a0-4da2-ad33-ab4e7a62adad" />
+
+
+
+
